@@ -31,6 +31,7 @@
 
 goog.provide('wgxpath.Context');
 
+goog.require('wgxpath.Node');
 
 
 /**

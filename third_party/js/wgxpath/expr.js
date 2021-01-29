@@ -31,6 +31,8 @@
 
 goog.provide('wgxpath.Expr');
 
+goog.requireType('wgxpath.Context');
+goog.require('wgxpath.DataType');
 goog.require('wgxpath.NodeSet');
 
 

@@ -32,7 +32,7 @@
 goog.provide('wgxpath.NodeSet');
 
 goog.require('goog.dom');
-goog.require('wgxpath.Node');
+goog.requireType('wgxpath.Node');
 
 
 

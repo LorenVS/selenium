@@ -32,9 +32,11 @@
 goog.provide('wgxpath.Parser');
 
 goog.require('wgxpath.BinaryExpr');
+goog.require('wgxpath.Expr');
 goog.require('wgxpath.FilterExpr');
 goog.require('wgxpath.FunctionCall');
 goog.require('wgxpath.KindTest');
+goog.require('wgxpath.Lexer');
 goog.require('wgxpath.Literal');
 goog.require('wgxpath.NameTest');
 goog.require('wgxpath.Number');

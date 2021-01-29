@@ -32,6 +32,7 @@ goog.require('goog.dom.DomHelper');
 goog.require('goog.dom.NodeType');
 goog.require('goog.dom.TagName');
 goog.require('goog.math');
+goog.require('goog.math.Box');
 goog.require('goog.math.Coordinate');
 goog.require('goog.math.Rect');
 goog.require('goog.string');

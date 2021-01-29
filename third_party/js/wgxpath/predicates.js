@@ -35,8 +35,10 @@ goog.provide('wgxpath.Predicates');
 
 goog.require('goog.array');
 goog.require('wgxpath.Context');
+goog.require('wgxpath.DataType');
 goog.require('wgxpath.Expr');
-
+goog.require('wgxpath.Node');
+goog.require('wgxpath.NodeSet');
 
 
 /**

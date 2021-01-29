@@ -34,10 +34,12 @@ goog.provide('wgxpath.Step');
 goog.require('goog.array');
 goog.require('goog.dom.NodeType');
 goog.require('wgxpath.DataType');
+goog.require('wgxpath.IEAttrWrapper');
 goog.require('wgxpath.Expr');
 goog.require('wgxpath.KindTest');
 goog.require('wgxpath.Node');
 goog.require('wgxpath.NodeSet');
+goog.require('wgxpath.NodeTest');
 goog.require('wgxpath.Predicates');
 goog.require('wgxpath.userAgent');
 

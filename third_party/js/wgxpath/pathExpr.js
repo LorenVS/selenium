@@ -36,7 +36,9 @@ goog.require('goog.dom.NodeType');
 goog.require('wgxpath.Context');
 goog.require('wgxpath.DataType');
 goog.require('wgxpath.Expr');
+goog.require('wgxpath.Node');
 goog.require('wgxpath.NodeSet');
+goog.require('wgxpath.Step');
 
 
 

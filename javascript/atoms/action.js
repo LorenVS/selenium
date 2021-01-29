@@ -36,9 +36,13 @@ goog.require('bot.events');
 goog.require('bot.events.EventType');
 goog.require('goog.array');
 goog.require('goog.dom.TagName');
-goog.require('goog.math.Coordinate');
+goog.require('goog.math.Coordinate');goog.require('goog.math.Rect');
+goog.require('goog.math.Size');
 goog.require('goog.math.Vec2');
 goog.require('goog.style');
+goog.require('goog.userAgent');
+goog.require('goog.userAgent.product');
+
 
 
 /**

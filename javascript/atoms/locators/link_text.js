@@ -19,10 +19,13 @@ goog.provide('bot.locators.linkText');
 goog.provide('bot.locators.partialLinkText');
 
 goog.require('bot');
+goog.require('bot.Error');
+goog.require('bot.ErrorCode');
 goog.require('bot.dom');
 goog.require('bot.locators.css');
 goog.require('goog.array');
 goog.require('goog.dom');
+goog.require('goog.dom.TagName');
 
 
 /**

@@ -33,6 +33,8 @@
 goog.provide('wgxpath.KindTest');
 
 goog.require('goog.dom.NodeType');
+goog.require('wgxpath.Expr');
+goog.require('wgxpath.Literal');
 goog.require('wgxpath.NodeTest');
 
 

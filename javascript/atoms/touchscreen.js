@@ -24,10 +24,11 @@ goog.provide('bot.Touchscreen');
 
 goog.require('bot');
 goog.require('bot.Device');
+goog.require('bot.dom');
 goog.require('bot.Error');
 goog.require('bot.ErrorCode');
-goog.require('bot.dom');
 goog.require('bot.events.EventType');
+goog.require('bot.userAgent');
 goog.require('goog.dom.TagName');
 goog.require('goog.math.Coordinate');
 goog.require('goog.userAgent.product');

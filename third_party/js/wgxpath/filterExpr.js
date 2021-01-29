@@ -31,7 +31,10 @@
 
 goog.provide('wgxpath.FilterExpr');
 
+goog.require('wgxpath.DataType');
 goog.require('wgxpath.Expr');
+goog.require('wgxpath.NodeSet');
+goog.require('wgxpath.Predicates');
 
 
 

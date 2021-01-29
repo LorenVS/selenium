@@ -18,10 +18,14 @@
 goog.provide('bot.locators.relative');
 
 goog.require('bot');
+goog.require('bot.Error');
+goog.require('bot.ErrorCode');
 goog.require('bot.dom');
 goog.require('bot.locators');
 goog.require('goog.array');
 goog.require('goog.dom');
+goog.require('goog.math.Rect');
+
 
 
 /**

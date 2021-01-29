@@ -23,6 +23,8 @@
 goog.provide('bot.locators');
 
 goog.require('bot');
+goog.require('bot.Error');
+goog.require('bot.ErrorCode');
 goog.require('bot.locators.className');
 goog.require('bot.locators.css');
 goog.require('bot.locators.id');

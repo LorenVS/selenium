@@ -31,10 +31,11 @@
 
 goog.provide('wgxpath.BinaryExpr');
 
+goog.require('wgxpath.Context');
 goog.require('wgxpath.DataType');
 goog.require('wgxpath.Expr');
 goog.require('wgxpath.Node');
-
+goog.require('wgxpath.NodeSet');
 
 
 /**

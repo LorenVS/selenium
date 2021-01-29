@@ -24,6 +24,8 @@ goog.provide('bot.Device');
 goog.provide('bot.Device.EventEmitter');
 
 goog.require('bot');
+goog.require('bot.Error');
+goog.require('bot.ErrorCode');
 goog.require('bot.dom');
 goog.require('bot.events');
 goog.require('bot.locators');
@@ -31,6 +33,7 @@ goog.require('bot.userAgent');
 goog.require('goog.array');
 goog.require('goog.dom');
 goog.require('goog.dom.TagName');
+goog.require('goog.math.Coordinate');
 goog.require('goog.userAgent');
 goog.require('goog.userAgent.product');
 

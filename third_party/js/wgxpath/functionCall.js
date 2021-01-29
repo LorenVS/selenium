@@ -35,12 +35,12 @@ goog.require('goog.array');
 goog.require('goog.dom');
 goog.require('goog.dom.NodeType');
 goog.require('goog.string');
+goog.require('wgxpath.Context');
 goog.require('wgxpath.Expr');
 goog.require('wgxpath.Node');
 goog.require('wgxpath.NodeSet');
 goog.require('wgxpath.userAgent');
 goog.require('wgxpath.DataType');
-
 
 
 /**

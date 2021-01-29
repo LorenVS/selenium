@@ -31,6 +31,7 @@
 
 goog.provide('wgxpath.Literal');
 
+goog.require('wgxpath.DataType');
 goog.require('wgxpath.Expr');
 
 
